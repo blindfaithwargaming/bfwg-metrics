@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BFWG Bot Metrics</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6b66;
+    --border: #e2e1dc; --ok: #2f7d4f; --bad: #b3261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161615; --surface: #1f1f1d; --text: #ececea; --muted: #a3a29c;
+      --border: #34332f; --ok: #6fc293; --bad: #f2827a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  h2 { font-size: 1.1rem; margin: 32px 0 8px; }
+  p.lede, p.note { color: var(--muted); margin: 0 0 8px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th { font-weight: 600; color: var(--muted); font-size: 0.85rem; }
+  tr:last-child td { border-bottom: none; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .ok { color: var(--ok); } .bad { color: var(--bad); }
+  .empty { padding: 16px; color: var(--muted); }
+  footer { margin-top: 32px; color: var(--muted); font-size: 0.85rem; }
+  a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>BFWG Discord Bot Metrics</h1>
+  <p class="lede">Aggregated usage and club-night results for the Blind Faith Wargaming Discord bot.</p>
+
+  <h2>Command usage, last {{.Days}} days</h2>
+  <div class="card">
+  {{if .Usage}}
+    <table>
+      <thead><tr><th>Command</th><th class="num">Invocations</th><th class="num">Success</th><th class="num">Avg ms</th><th class="num">p95 ms</th></tr></thead>
+      <tbody>
+      {{range .Usage}}
+        <tr>
+          <td>/{{.Command}}</td>
+          <td class="num">{{.Invocations}}</td>
+          <td class="num {{if lt .SuccessRate 0.99}}bad{{end}}">{{pct .SuccessRate}}</td>
+          <td class="num">{{printf "%.0f" .AvgMS}}</td>
+          <td class="num">{{.P95MS}}</td>
+        </tr>
+      {{end}}
+      </tbody>
+    </table>
+  {{else}}<p class="empty">No command telemetry loaded yet.</p>{{end}}
+  </div>
+
+  <h2>Reported games by system</h2>
+  <div class="card">
+  {{if .Games.Systems}}
+    <table>
+      <thead><tr><th>Game</th><th class="num">Games</th><th class="num">Draws</th></tr></thead>
+      <tbody>
+      {{range .Games.Systems}}<tr><td>{{.Game}}</td><td class="num">{{.Games}}</td><td class="num">{{.Draws}}</td></tr>{{end}}
+      </tbody>
+    </table>
+  {{else}}<p class="empty">No games loaded yet.</p>{{end}}
+  </div>
+
+  <h2>Faction records</h2>
+  <p class="note">Factions played fewer than {{.MinGames}} times are withheld.</p>
+  <div class="card">
+  {{if .Games.Factions}}
+    <table>
+      <thead><tr><th>Faction</th><th>Game</th><th class="num">Played</th><th class="num">W</th><th class="num">L</th><th class="num">D</th><th class="num">Win rate</th></tr></thead>
+      <tbody>
+      {{range .Games.Factions}}
+        <tr><td>{{.Faction}}</td><td>{{.Game}}</td><td class="num">{{.Played}}</td><td class="num">{{.Wins}}</td><td class="num">{{.Losses}}</td><td class="num">{{.Draws}}</td><td class="num">{{pct .WinRate}}</td></tr>
+      {{end}}
+      </tbody>
+    </table>
+  {{else}}<p class="empty">No faction has reached the reporting threshold.</p>{{end}}
+  </div>
+
+  <h2>Data pipeline</h2>
+  <div class="card">
+  {{if .Runs}}
+    <table>
+      <thead><tr><th>Source</th><th>Status</th><th>Finished (UTC)</th><th class="num">Read</th><th class="num">Loaded</th></tr></thead>
+      <tbody>
+      {{range .Runs}}
+        <tr>
+          <td>{{.Source}}</td>
+          <td class="{{if eq .Status "ok"}}ok{{else}}bad{{end}}">{{.Status}}</td>
+          <td>{{.FinishedAt.Format "2006-01-02 15:04"}}</td>
+          <td class="num">{{.RowsRead}}</td>
+          <td class="num">{{.RowsLoaded}}</td>
+        </tr>
+      {{end}}
+      </tbody>
+    </table>
+  {{else}}<p class="empty">The ETL job has not run yet.</p>{{end}}
+  </div>
+
+  <footer>JSON API: <a href="/api/openapi.yaml">OpenAPI spec</a> · <a href="/metrics">Prometheus metrics</a></footer>
+</main>
+</body>
+</html>

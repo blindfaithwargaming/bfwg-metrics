@@ -1,0 +1,28 @@
+groups:
+  - name: bfwg-metrics
+    rules:
+      - alert: ETLRunFailed
+        expr: bfwg_etl_last_run_success == 0
+        for: 5m
+        labels: { severity: warning }
+        annotations:
+          summary: "Latest {{ $labels.source }} ETL run failed"
+          runbook: docs/runbook.md#etl-run-failed
+
+      - alert: ETLDataStale
+        expr: time() - bfwg_etl_last_run_timestamp_seconds > 2 * 86400
+        for: 15m
+        labels: { severity: warning }
+        annotations:
+          summary: "No {{ $labels.source }} ETL run for over 48h"
+          runbook: docs/runbook.md#etl-data-stale
+
+      - alert: APIHighErrorRate
+        expr: |
+          sum(rate(bfwg_http_requests_total{code=~"5.."}[10m]))
+            / sum(rate(bfwg_http_requests_total[10m])) > 0.05
+        for: 10m
+        labels: { severity: critical }
+        annotations:
+          summary: "More than 5% of API requests are failing"
+          runbook: docs/runbook.md#api-high-error-rate

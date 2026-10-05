@@ -1,0 +1,30 @@
+services:
+  etl:
+    build: .
+    entrypoint: ["/usr/local/bin/etl"]
+    command: ["-games", "/sample/club_night_games.json", "-command-logs", "/sample/command_logs.json"]
+    volumes:
+      - data:/data
+
+  server:
+    build: .
+    depends_on:
+      etl:
+        condition: service_completed_successfully
+    ports:
+      - "8080:8080"
+    environment:
+      BFWG_MIN_FACTION_GAMES: "3"
+    volumes:
+      - data:/data
+
+  prometheus:
+    image: prom/prometheus:v3.5.0
+    depends_on: [server]
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./deploy/prometheus:/etc/prometheus:ro
+
+volumes:
+  data:

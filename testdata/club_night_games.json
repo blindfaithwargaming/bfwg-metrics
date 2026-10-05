@@ -1,0 +1,1325 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "id": "00000000000000000000000000000000",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000000",
+      "reported_at": "2026-09-02T21:00:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000000",
+          "display_name": "Synthetic Player 0-0",
+          "faction": "Cult of Yurei",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000001",
+          "display_name": "Synthetic Player 0-1",
+          "faction": "Ito Clan",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 42,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000001",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000010",
+      "reported_at": "2026-09-09T21:01:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000010",
+          "display_name": "Synthetic Player 1-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000011",
+          "display_name": "Synthetic Player 1-1",
+          "faction": "Death Guard",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000002",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000020",
+      "reported_at": "2026-09-16T21:02:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000020",
+          "display_name": "Synthetic Player 2-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000021",
+          "display_name": "Synthetic Player 2-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000003",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000030",
+      "reported_at": "2026-09-23T21:03:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000030",
+          "display_name": "Synthetic Player 3-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000031",
+          "display_name": "Synthetic Player 3-1",
+          "faction": "Mechanicum",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000004",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000040",
+      "reported_at": "2026-09-02T21:04:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000040",
+          "display_name": "Synthetic Player 4-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000041",
+          "display_name": "Synthetic Player 4-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000005",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000050",
+      "reported_at": "2026-09-09T21:05:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000050",
+          "display_name": "Synthetic Player 5-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000051",
+          "display_name": "Synthetic Player 5-1",
+          "faction": "Prefecture of Ryu",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 42,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000006",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000060",
+      "reported_at": "2026-09-16T21:06:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000060",
+          "display_name": "Synthetic Player 6-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000061",
+          "display_name": "Synthetic Player 6-1",
+          "faction": "Mechanicum",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000007",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000070",
+      "reported_at": "2026-09-23T21:07:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000070",
+          "display_name": "Synthetic Player 7-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000071",
+          "display_name": "Synthetic Player 7-1",
+          "faction": "Sons of Horus",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000008",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000080",
+      "reported_at": "2026-09-02T21:08:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000080",
+          "display_name": "Synthetic Player 8-0",
+          "faction": "Ito Clan",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000081",
+          "display_name": "Synthetic Player 8-1",
+          "faction": "Ito Clan",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 42,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000009",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000090",
+      "reported_at": "2026-09-09T21:09:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000090",
+          "display_name": "Synthetic Player 9-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000091",
+          "display_name": "Synthetic Player 9-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000a",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000100",
+      "reported_at": "2026-09-16T21:10:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000100",
+          "display_name": "Synthetic Player 10-0",
+          "faction": "Ito Clan",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000101",
+          "display_name": "Synthetic Player 10-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000b",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000110",
+      "reported_at": "2026-09-23T21:11:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000110",
+          "display_name": "Synthetic Player 11-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000111",
+          "display_name": "Synthetic Player 11-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000c",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000120",
+      "reported_at": "2026-09-02T21:12:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000120",
+          "display_name": "Synthetic Player 12-0",
+          "faction": "Ultramarines",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000121",
+          "display_name": "Synthetic Player 12-1",
+          "faction": "Death Guard",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000d",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000130",
+      "reported_at": "2026-09-09T21:13:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000130",
+          "display_name": "Synthetic Player 13-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000131",
+          "display_name": "Synthetic Player 13-1",
+          "faction": "Sons of Horus",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000e",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000140",
+      "reported_at": "2026-09-16T21:14:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000140",
+          "display_name": "Synthetic Player 14-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000141",
+          "display_name": "Synthetic Player 14-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000000f",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000150",
+      "reported_at": "2026-09-23T21:15:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000150",
+          "display_name": "Synthetic Player 15-0",
+          "faction": "Mechanicum",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000151",
+          "display_name": "Synthetic Player 15-1",
+          "faction": "Mechanicum",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000010",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000160",
+      "reported_at": "2026-09-02T21:16:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000160",
+          "display_name": "Synthetic Player 16-0",
+          "faction": "Ito Clan",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000161",
+          "display_name": "Synthetic Player 16-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000011",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000170",
+      "reported_at": "2026-09-09T21:17:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000170",
+          "display_name": "Synthetic Player 17-0",
+          "faction": "Death Guard",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000171",
+          "display_name": "Synthetic Player 17-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000012",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000180",
+      "reported_at": "2026-09-16T21:18:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000180",
+          "display_name": "Synthetic Player 18-0",
+          "faction": "Mechanicum",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000181",
+          "display_name": "Synthetic Player 18-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000013",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000190",
+      "reported_at": "2026-09-23T21:19:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000190",
+          "display_name": "Synthetic Player 19-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000191",
+          "display_name": "Synthetic Player 19-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000014",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000200",
+      "reported_at": "2026-09-02T21:20:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000200",
+          "display_name": "Synthetic Player 20-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000201",
+          "display_name": "Synthetic Player 20-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000015",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000210",
+      "reported_at": "2026-09-09T21:21:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000210",
+          "display_name": "Synthetic Player 21-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000211",
+          "display_name": "Synthetic Player 21-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000016",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000220",
+      "reported_at": "2026-09-16T21:22:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000220",
+          "display_name": "Synthetic Player 22-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000221",
+          "display_name": "Synthetic Player 22-1",
+          "faction": "Prefecture of Ryu",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000017",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000230",
+      "reported_at": "2026-09-23T21:23:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000230",
+          "display_name": "Synthetic Player 23-0",
+          "faction": "Cult of Yurei",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000231",
+          "display_name": "Synthetic Player 23-1",
+          "faction": "Prefecture of Ryu",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000018",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000240",
+      "reported_at": "2026-09-02T21:24:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000240",
+          "display_name": "Synthetic Player 24-0",
+          "faction": "Death Guard",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000241",
+          "display_name": "Synthetic Player 24-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000019",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000250",
+      "reported_at": "2026-09-09T21:25:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000250",
+          "display_name": "Synthetic Player 25-0",
+          "faction": "Imperial Fists",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000251",
+          "display_name": "Synthetic Player 25-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001a",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000260",
+      "reported_at": "2026-09-16T21:26:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000260",
+          "display_name": "Synthetic Player 26-0",
+          "faction": "Ultramarines",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000261",
+          "display_name": "Synthetic Player 26-1",
+          "faction": "Mechanicum",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001b",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000270",
+      "reported_at": "2026-09-23T21:27:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000270",
+          "display_name": "Synthetic Player 27-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000271",
+          "display_name": "Synthetic Player 27-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001c",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000280",
+      "reported_at": "2026-09-02T21:28:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000280",
+          "display_name": "Synthetic Player 28-0",
+          "faction": "Ito Clan",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000281",
+          "display_name": "Synthetic Player 28-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 42,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001d",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000290",
+      "reported_at": "2026-09-09T21:29:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000290",
+          "display_name": "Synthetic Player 29-0",
+          "faction": "Mechanicum",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000291",
+          "display_name": "Synthetic Player 29-1",
+          "faction": "Ultramarines",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001e",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000300",
+      "reported_at": "2026-09-16T21:30:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000300",
+          "display_name": "Synthetic Player 30-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000301",
+          "display_name": "Synthetic Player 30-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "0000000000000000000000000000001f",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000310",
+      "reported_at": "2026-09-23T21:31:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000310",
+          "display_name": "Synthetic Player 31-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000311",
+          "display_name": "Synthetic Player 31-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000020",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000320",
+      "reported_at": "2026-09-02T21:32:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000320",
+          "display_name": "Synthetic Player 32-0",
+          "faction": "Death Guard",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000321",
+          "display_name": "Synthetic Player 32-1",
+          "faction": "Mechanicum",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000021",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000330",
+      "reported_at": "2026-09-09T21:33:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000330",
+          "display_name": "Synthetic Player 33-0",
+          "faction": "Mechanicum",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000331",
+          "display_name": "Synthetic Player 33-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 2000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000022",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000340",
+      "reported_at": "2026-09-16T21:34:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000340",
+          "display_name": "Synthetic Player 34-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000341",
+          "display_name": "Synthetic Player 34-1",
+          "faction": "Prefecture of Ryu",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 42,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000023",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000350",
+      "reported_at": "2026-09-23T21:35:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000350",
+          "display_name": "Synthetic Player 35-0",
+          "faction": "Ito Clan",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000351",
+          "display_name": "Synthetic Player 35-1",
+          "faction": "Cult of Yurei",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000024",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-02",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000360",
+      "reported_at": "2026-09-02T21:36:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000360",
+          "display_name": "Synthetic Player 36-0",
+          "faction": "Prefecture of Ryu",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000361",
+          "display_name": "Synthetic Player 36-1",
+          "faction": "Prefecture of Ryu",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": null,
+      "game": "bushido",
+      "rice": 50,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000025",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-09",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000370",
+      "reported_at": "2026-09-09T21:37:00+00:00",
+      "game_type": "sides",
+      "result": "side2",
+      "players": [
+        {
+          "user_id": "90000000000000370",
+          "display_name": "Synthetic Player 37-0",
+          "faction": "Orc & Goblin Tribes",
+          "side": "side1",
+          "result": "loss"
+        },
+        {
+          "user_id": "90000000000000371",
+          "display_name": "Synthetic Player 37-1",
+          "faction": "Orc & Goblin Tribes",
+          "side": "side2",
+          "result": "win"
+        }
+      ],
+      "points_size": 2000,
+      "game": "old-world",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000026",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-16",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000380",
+      "reported_at": "2026-09-16T21:38:00+00:00",
+      "game_type": "sides",
+      "result": "side1",
+      "players": [
+        {
+          "user_id": "90000000000000380",
+          "display_name": "Synthetic Player 38-0",
+          "faction": "Death Guard",
+          "side": "side1",
+          "result": "win"
+        },
+        {
+          "user_id": "90000000000000381",
+          "display_name": "Synthetic Player 38-1",
+          "faction": "Death Guard",
+          "side": "side2",
+          "result": "loss"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    },
+    {
+      "id": "00000000000000000000000000000027",
+      "guild_id": "100000000000000001",
+      "club_night_date": "2026-09-23",
+      "thread_id": "200000000000000001",
+      "thread_title": "Heresy Organised Play - synthetic",
+      "reported_by_user_id": "90000000000000390",
+      "reported_at": "2026-09-23T21:39:00+00:00",
+      "game_type": "sides",
+      "result": "draw",
+      "players": [
+        {
+          "user_id": "90000000000000390",
+          "display_name": "Synthetic Player 39-0",
+          "faction": "Sons of Horus",
+          "side": "side1",
+          "result": "draw"
+        },
+        {
+          "user_id": "90000000000000391",
+          "display_name": "Synthetic Player 39-1",
+          "faction": "Imperial Fists",
+          "side": "side2",
+          "result": "draw"
+        }
+      ],
+      "points_size": 3000,
+      "game": "heresy",
+      "rice": null,
+      "mission": "Take and Hold",
+      "notes": "SYNTHETIC-PRIVATE-NOTE",
+      "campaign_hex": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# Loads the synthetic fixtures baked into the image. Pointing this at real
+# data means adding an init container that copies exports from the private
+# state bucket; see docs/roadmap.md.
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: bfwg-metrics-etl
+spec:
+  schedule: "15 4 * * *"
+  concurrencyPolicy: Forbid
+  successfulJobsHistoryLimit: 3
+  failedJobsHistoryLimit: 3
+  jobTemplate:
+    spec:
+      backoffLimit: 2
+      template:
+        metadata:
+          labels:
+            app.kubernetes.io/name: bfwg-metrics
+            app.kubernetes.io/component: etl
+        spec:
+          restartPolicy: OnFailure
+          securityContext:
+            runAsNonRoot: true
+            fsGroup: 65532
+            seccompProfile: { type: RuntimeDefault }
+          containers:
+            - name: etl
+              image: bfwg-metrics:dev
+              imagePullPolicy: IfNotPresent
+              command: ["/usr/local/bin/etl"]
+              args:
+                - -games=/sample/club_night_games.json
+                - -command-logs=/sample/command_logs.json
+              resources:
+                requests: { cpu: 10m, memory: 32Mi }
+                limits: { memory: 128Mi }
+              securityContext:
+                allowPrivilegeEscalation: false
+                readOnlyRootFilesystem: true
+                capabilities: { drop: [ALL] }
+              volumeMounts:
+                - name: data
+                  mountPath: /data
+          volumes:
+            - name: data
+              persistentVolumeClaim:
+                claimName: bfwg-metrics-data

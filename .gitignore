@@ -1,0 +1,8 @@
+*.db
+*.db-shm
+*.db-wal
+/bin/
+/data/
+# Real exports from the bot's state bucket or Cloud Logging. Never commit these.
+/private/
+.DS_Store

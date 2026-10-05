@@ -1,0 +1,5402 @@
+[
+  {
+    "insertId": "synthetic00000",
+    "timestamp": "2026-09-01T18:00:00.000Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=258",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00000",
+    "timestamp": "2026-09-01T18:00:00.000Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00001",
+    "timestamp": "2026-09-02T19:01:07.001Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=130",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00001",
+    "timestamp": "2026-09-02T19:01:07.001Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00002",
+    "timestamp": "2026-09-03T20:02:14.002Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=250",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00002",
+    "timestamp": "2026-09-03T20:02:14.002Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00003",
+    "timestamp": "2026-09-04T21:03:21.003Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=70",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00003",
+    "timestamp": "2026-09-04T21:03:21.003Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00004",
+    "timestamp": "2026-09-05T22:04:28.004Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=39",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00004",
+    "timestamp": "2026-09-05T22:04:28.004Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00005",
+    "timestamp": "2026-09-06T18:05:35.005Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=400",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00005",
+    "timestamp": "2026-09-06T18:05:35.005Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00006",
+    "timestamp": "2026-09-07T19:06:42.006Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=852",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00006",
+    "timestamp": "2026-09-07T19:06:42.006Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00007",
+    "timestamp": "2026-09-08T20:07:49.007Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=258",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00007",
+    "timestamp": "2026-09-08T20:07:49.007Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00008",
+    "timestamp": "2026-09-09T21:08:56.008Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=404",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00008",
+    "timestamp": "2026-09-09T21:08:56.008Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00009",
+    "timestamp": "2026-09-10T22:09:03.009Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=85",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00009",
+    "timestamp": "2026-09-10T22:09:03.009Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00010",
+    "timestamp": "2026-09-11T18:10:10.010Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=41",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00010",
+    "timestamp": "2026-09-11T18:10:10.010Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00011",
+    "timestamp": "2026-09-12T19:11:17.011Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=135",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00011",
+    "timestamp": "2026-09-12T19:11:17.011Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00012",
+    "timestamp": "2026-09-13T20:12:24.012Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=477",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00012",
+    "timestamp": "2026-09-13T20:12:24.012Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00013",
+    "timestamp": "2026-09-14T21:13:31.013Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=28",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00013",
+    "timestamp": "2026-09-14T21:13:31.013Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00014",
+    "timestamp": "2026-09-15T22:14:38.014Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=161",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00014",
+    "timestamp": "2026-09-15T22:14:38.014Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00015",
+    "timestamp": "2026-09-16T18:15:45.015Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=172",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00015",
+    "timestamp": "2026-09-16T18:15:45.015Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00016",
+    "timestamp": "2026-09-17T19:16:52.016Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=310",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00016",
+    "timestamp": "2026-09-17T19:16:52.016Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00017",
+    "timestamp": "2026-09-18T20:17:59.017Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=89",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00017",
+    "timestamp": "2026-09-18T20:17:59.017Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00018",
+    "timestamp": "2026-09-19T21:18:06.018Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=30",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00018",
+    "timestamp": "2026-09-19T21:18:06.018Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00019",
+    "timestamp": "2026-09-20T22:19:13.019Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=55",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00019",
+    "timestamp": "2026-09-20T22:19:13.019Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00020",
+    "timestamp": "2026-09-21T18:20:20.020Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=128",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00020",
+    "timestamp": "2026-09-21T18:20:20.020Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00021",
+    "timestamp": "2026-09-22T19:21:27.021Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=513",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00021",
+    "timestamp": "2026-09-22T19:21:27.021Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00022",
+    "timestamp": "2026-09-23T20:22:34.022Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=268",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00022",
+    "timestamp": "2026-09-23T20:22:34.022Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00023",
+    "timestamp": "2026-09-24T21:23:41.023Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=17",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00023",
+    "timestamp": "2026-09-24T21:23:41.023Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00024",
+    "timestamp": "2026-09-25T22:24:48.024Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=147",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00024",
+    "timestamp": "2026-09-25T22:24:48.024Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00025",
+    "timestamp": "2026-09-26T18:25:55.025Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00025",
+    "timestamp": "2026-09-26T18:25:55.025Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00026",
+    "timestamp": "2026-09-27T19:26:02.026Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=31",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00026",
+    "timestamp": "2026-09-27T19:26:02.026Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00027",
+    "timestamp": "2026-09-28T20:27:09.027Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=339",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00027",
+    "timestamp": "2026-09-28T20:27:09.027Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00028",
+    "timestamp": "2026-09-29T21:28:16.028Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=280",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00028",
+    "timestamp": "2026-09-29T21:28:16.028Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00029",
+    "timestamp": "2026-09-30T22:29:23.029Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=63",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00029",
+    "timestamp": "2026-09-30T22:29:23.029Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00030",
+    "timestamp": "2026-09-01T18:30:30.030Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=262",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00030",
+    "timestamp": "2026-09-01T18:30:30.030Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00031",
+    "timestamp": "2026-09-02T19:31:37.031Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=294",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00031",
+    "timestamp": "2026-09-02T19:31:37.031Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00032",
+    "timestamp": "2026-09-03T20:32:44.032Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=116",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00032",
+    "timestamp": "2026-09-03T20:32:44.032Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00033",
+    "timestamp": "2026-09-04T21:33:51.033Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=147",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00033",
+    "timestamp": "2026-09-04T21:33:51.033Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00034",
+    "timestamp": "2026-09-05T22:34:58.034Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=109",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00034",
+    "timestamp": "2026-09-05T22:34:58.034Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00035",
+    "timestamp": "2026-09-06T18:35:05.035Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=171",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00035",
+    "timestamp": "2026-09-06T18:35:05.035Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00036",
+    "timestamp": "2026-09-07T19:36:12.036Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=108",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00036",
+    "timestamp": "2026-09-07T19:36:12.036Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00037",
+    "timestamp": "2026-09-08T20:37:19.037Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=142",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00037",
+    "timestamp": "2026-09-08T20:37:19.037Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00038",
+    "timestamp": "2026-09-09T21:38:26.038Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=241",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00038",
+    "timestamp": "2026-09-09T21:38:26.038Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00039",
+    "timestamp": "2026-09-10T22:39:33.039Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=56",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00039",
+    "timestamp": "2026-09-10T22:39:33.039Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00040",
+    "timestamp": "2026-09-11T18:40:40.040Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=36",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00040",
+    "timestamp": "2026-09-11T18:40:40.040Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00041",
+    "timestamp": "2026-09-12T19:41:47.041Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=101",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00041",
+    "timestamp": "2026-09-12T19:41:47.041Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00042",
+    "timestamp": "2026-09-13T20:42:54.042Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=43",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00042",
+    "timestamp": "2026-09-13T20:42:54.042Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00043",
+    "timestamp": "2026-09-14T21:43:01.043Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=430",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00043",
+    "timestamp": "2026-09-14T21:43:01.043Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00044",
+    "timestamp": "2026-09-15T22:44:08.044Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=55",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00044",
+    "timestamp": "2026-09-15T22:44:08.044Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00045",
+    "timestamp": "2026-09-16T18:45:15.045Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=238",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00045",
+    "timestamp": "2026-09-16T18:45:15.045Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00046",
+    "timestamp": "2026-09-17T19:46:22.046Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=23",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00046",
+    "timestamp": "2026-09-17T19:46:22.046Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00047",
+    "timestamp": "2026-09-18T20:47:29.047Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=334",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00047",
+    "timestamp": "2026-09-18T20:47:29.047Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00048",
+    "timestamp": "2026-09-19T21:48:36.048Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=46",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00048",
+    "timestamp": "2026-09-19T21:48:36.048Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00049",
+    "timestamp": "2026-09-20T22:49:43.049Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=62",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00049",
+    "timestamp": "2026-09-20T22:49:43.049Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00050",
+    "timestamp": "2026-09-21T18:50:50.050Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=58",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00050",
+    "timestamp": "2026-09-21T18:50:50.050Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00051",
+    "timestamp": "2026-09-22T19:51:57.051Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=224",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00051",
+    "timestamp": "2026-09-22T19:51:57.051Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00052",
+    "timestamp": "2026-09-23T20:52:04.052Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=404",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00052",
+    "timestamp": "2026-09-23T20:52:04.052Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00053",
+    "timestamp": "2026-09-24T21:53:11.053Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=72",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00053",
+    "timestamp": "2026-09-24T21:53:11.053Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00054",
+    "timestamp": "2026-09-25T22:54:18.054Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=1110",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00054",
+    "timestamp": "2026-09-25T22:54:18.054Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00055",
+    "timestamp": "2026-09-26T18:55:25.055Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=342",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00055",
+    "timestamp": "2026-09-26T18:55:25.055Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00056",
+    "timestamp": "2026-09-27T19:56:32.056Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=236",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00056",
+    "timestamp": "2026-09-27T19:56:32.056Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00057",
+    "timestamp": "2026-09-28T20:57:39.057Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=71",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00057",
+    "timestamp": "2026-09-28T20:57:39.057Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00058",
+    "timestamp": "2026-09-29T21:58:46.058Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=394",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00058",
+    "timestamp": "2026-09-29T21:58:46.058Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00059",
+    "timestamp": "2026-09-30T22:59:53.059Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=63",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00059",
+    "timestamp": "2026-09-30T22:59:53.059Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00060",
+    "timestamp": "2026-09-01T18:00:00.060Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=39",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00060",
+    "timestamp": "2026-09-01T18:00:00.060Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00061",
+    "timestamp": "2026-09-02T19:01:07.061Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=180",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00061",
+    "timestamp": "2026-09-02T19:01:07.061Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00062",
+    "timestamp": "2026-09-03T20:02:14.062Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=119",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00062",
+    "timestamp": "2026-09-03T20:02:14.062Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00063",
+    "timestamp": "2026-09-04T21:03:21.063Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=False elapsed_ms=72",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00063",
+    "timestamp": "2026-09-04T21:03:21.063Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00064",
+    "timestamp": "2026-09-05T22:04:28.064Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=357",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00064",
+    "timestamp": "2026-09-05T22:04:28.064Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00065",
+    "timestamp": "2026-09-06T18:05:35.065Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=198",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00065",
+    "timestamp": "2026-09-06T18:05:35.065Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00066",
+    "timestamp": "2026-09-07T19:06:42.066Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=47",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00066",
+    "timestamp": "2026-09-07T19:06:42.066Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00067",
+    "timestamp": "2026-09-08T20:07:49.067Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=372",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00067",
+    "timestamp": "2026-09-08T20:07:49.067Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00068",
+    "timestamp": "2026-09-09T21:08:56.068Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=727",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00068",
+    "timestamp": "2026-09-09T21:08:56.068Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00069",
+    "timestamp": "2026-09-10T22:09:03.069Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=694",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00069",
+    "timestamp": "2026-09-10T22:09:03.069Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00070",
+    "timestamp": "2026-09-11T18:10:10.070Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=58",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00070",
+    "timestamp": "2026-09-11T18:10:10.070Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00071",
+    "timestamp": "2026-09-12T19:11:17.071Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=173",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00071",
+    "timestamp": "2026-09-12T19:11:17.071Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00072",
+    "timestamp": "2026-09-13T20:12:24.072Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=148",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00072",
+    "timestamp": "2026-09-13T20:12:24.072Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00073",
+    "timestamp": "2026-09-14T21:13:31.073Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=252",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00073",
+    "timestamp": "2026-09-14T21:13:31.073Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00074",
+    "timestamp": "2026-09-15T22:14:38.074Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=86",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00074",
+    "timestamp": "2026-09-15T22:14:38.074Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00075",
+    "timestamp": "2026-09-16T18:15:45.075Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=119",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00075",
+    "timestamp": "2026-09-16T18:15:45.075Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00076",
+    "timestamp": "2026-09-17T19:16:52.076Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=111",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00076",
+    "timestamp": "2026-09-17T19:16:52.076Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00077",
+    "timestamp": "2026-09-18T20:17:59.077Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=79",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00077",
+    "timestamp": "2026-09-18T20:17:59.077Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00078",
+    "timestamp": "2026-09-19T21:18:06.078Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=138",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00078",
+    "timestamp": "2026-09-19T21:18:06.078Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00079",
+    "timestamp": "2026-09-20T22:19:13.079Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=74",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00079",
+    "timestamp": "2026-09-20T22:19:13.079Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00080",
+    "timestamp": "2026-09-21T18:20:20.080Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=61",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00080",
+    "timestamp": "2026-09-21T18:20:20.080Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00081",
+    "timestamp": "2026-09-22T19:21:27.081Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00081",
+    "timestamp": "2026-09-22T19:21:27.081Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00082",
+    "timestamp": "2026-09-23T20:22:34.082Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=145",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00082",
+    "timestamp": "2026-09-23T20:22:34.082Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00083",
+    "timestamp": "2026-09-24T21:23:41.083Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=179",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00083",
+    "timestamp": "2026-09-24T21:23:41.083Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00084",
+    "timestamp": "2026-09-25T22:24:48.084Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=74",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00084",
+    "timestamp": "2026-09-25T22:24:48.084Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00085",
+    "timestamp": "2026-09-26T18:25:55.085Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=28",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00085",
+    "timestamp": "2026-09-26T18:25:55.085Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00086",
+    "timestamp": "2026-09-27T19:26:02.086Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=305",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00086",
+    "timestamp": "2026-09-27T19:26:02.086Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00087",
+    "timestamp": "2026-09-28T20:27:09.087Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=267",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00087",
+    "timestamp": "2026-09-28T20:27:09.087Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00088",
+    "timestamp": "2026-09-29T21:28:16.088Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=137",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00088",
+    "timestamp": "2026-09-29T21:28:16.088Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00089",
+    "timestamp": "2026-09-30T22:29:23.089Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=False elapsed_ms=84",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00089",
+    "timestamp": "2026-09-30T22:29:23.089Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00090",
+    "timestamp": "2026-09-01T18:30:30.090Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=372",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00090",
+    "timestamp": "2026-09-01T18:30:30.090Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00091",
+    "timestamp": "2026-09-02T19:31:37.091Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=False elapsed_ms=228",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00091",
+    "timestamp": "2026-09-02T19:31:37.091Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00092",
+    "timestamp": "2026-09-03T20:32:44.092Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=237",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00092",
+    "timestamp": "2026-09-03T20:32:44.092Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00093",
+    "timestamp": "2026-09-04T21:33:51.093Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=146",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00093",
+    "timestamp": "2026-09-04T21:33:51.093Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00094",
+    "timestamp": "2026-09-05T22:34:58.094Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=49",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00094",
+    "timestamp": "2026-09-05T22:34:58.094Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00095",
+    "timestamp": "2026-09-06T18:35:05.095Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=230",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00095",
+    "timestamp": "2026-09-06T18:35:05.095Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00096",
+    "timestamp": "2026-09-07T19:36:12.096Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=29",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00096",
+    "timestamp": "2026-09-07T19:36:12.096Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00097",
+    "timestamp": "2026-09-08T20:37:19.097Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=109",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00097",
+    "timestamp": "2026-09-08T20:37:19.097Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00098",
+    "timestamp": "2026-09-09T21:38:26.098Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=304",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00098",
+    "timestamp": "2026-09-09T21:38:26.098Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00099",
+    "timestamp": "2026-09-10T22:39:33.099Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=156",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00099",
+    "timestamp": "2026-09-10T22:39:33.099Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00100",
+    "timestamp": "2026-09-11T18:40:40.100Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=16",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00100",
+    "timestamp": "2026-09-11T18:40:40.100Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00101",
+    "timestamp": "2026-09-12T19:41:47.101Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=26",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00101",
+    "timestamp": "2026-09-12T19:41:47.101Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00102",
+    "timestamp": "2026-09-13T20:42:54.102Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=169",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00102",
+    "timestamp": "2026-09-13T20:42:54.102Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00103",
+    "timestamp": "2026-09-14T21:43:01.103Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=100",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00103",
+    "timestamp": "2026-09-14T21:43:01.103Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00104",
+    "timestamp": "2026-09-15T22:44:08.104Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=359",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00104",
+    "timestamp": "2026-09-15T22:44:08.104Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00105",
+    "timestamp": "2026-09-16T18:45:15.105Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=231",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00105",
+    "timestamp": "2026-09-16T18:45:15.105Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00106",
+    "timestamp": "2026-09-17T19:46:22.106Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=67",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00106",
+    "timestamp": "2026-09-17T19:46:22.106Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00107",
+    "timestamp": "2026-09-18T20:47:29.107Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=46",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00107",
+    "timestamp": "2026-09-18T20:47:29.107Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00108",
+    "timestamp": "2026-09-19T21:48:36.108Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=26",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00108",
+    "timestamp": "2026-09-19T21:48:36.108Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00109",
+    "timestamp": "2026-09-20T22:49:43.109Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=112",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00109",
+    "timestamp": "2026-09-20T22:49:43.109Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00110",
+    "timestamp": "2026-09-21T18:50:50.110Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=90",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00110",
+    "timestamp": "2026-09-21T18:50:50.110Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00111",
+    "timestamp": "2026-09-22T19:51:57.111Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=22",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00111",
+    "timestamp": "2026-09-22T19:51:57.111Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00112",
+    "timestamp": "2026-09-23T20:52:04.112Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=85",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00112",
+    "timestamp": "2026-09-23T20:52:04.112Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00113",
+    "timestamp": "2026-09-24T21:53:11.113Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=188",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00113",
+    "timestamp": "2026-09-24T21:53:11.113Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00114",
+    "timestamp": "2026-09-25T22:54:18.114Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=60",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00114",
+    "timestamp": "2026-09-25T22:54:18.114Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00115",
+    "timestamp": "2026-09-26T18:55:25.115Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=768",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00115",
+    "timestamp": "2026-09-26T18:55:25.115Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00116",
+    "timestamp": "2026-09-27T19:56:32.116Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=42",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00116",
+    "timestamp": "2026-09-27T19:56:32.116Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00117",
+    "timestamp": "2026-09-28T20:57:39.117Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=148",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00117",
+    "timestamp": "2026-09-28T20:57:39.117Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00118",
+    "timestamp": "2026-09-29T21:58:46.118Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=47",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00118",
+    "timestamp": "2026-09-29T21:58:46.118Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00119",
+    "timestamp": "2026-09-30T22:59:53.119Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=189",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00119",
+    "timestamp": "2026-09-30T22:59:53.119Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00120",
+    "timestamp": "2026-09-01T18:00:00.120Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=68",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00120",
+    "timestamp": "2026-09-01T18:00:00.120Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00121",
+    "timestamp": "2026-09-02T19:01:07.121Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=29",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00121",
+    "timestamp": "2026-09-02T19:01:07.121Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00122",
+    "timestamp": "2026-09-03T20:02:14.122Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=False elapsed_ms=338",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00122",
+    "timestamp": "2026-09-03T20:02:14.122Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00123",
+    "timestamp": "2026-09-04T21:03:21.123Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=False elapsed_ms=179",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00123",
+    "timestamp": "2026-09-04T21:03:21.123Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00124",
+    "timestamp": "2026-09-05T22:04:28.124Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=59",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00124",
+    "timestamp": "2026-09-05T22:04:28.124Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00125",
+    "timestamp": "2026-09-06T18:05:35.125Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00125",
+    "timestamp": "2026-09-06T18:05:35.125Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00126",
+    "timestamp": "2026-09-07T19:06:42.126Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=28",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00126",
+    "timestamp": "2026-09-07T19:06:42.126Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00127",
+    "timestamp": "2026-09-08T20:07:49.127Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=323",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00127",
+    "timestamp": "2026-09-08T20:07:49.127Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00128",
+    "timestamp": "2026-09-09T21:08:56.128Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=28",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00128",
+    "timestamp": "2026-09-09T21:08:56.128Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00129",
+    "timestamp": "2026-09-10T22:09:03.129Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=78",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00129",
+    "timestamp": "2026-09-10T22:09:03.129Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00130",
+    "timestamp": "2026-09-11T18:10:10.130Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=1190",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00130",
+    "timestamp": "2026-09-11T18:10:10.130Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00131",
+    "timestamp": "2026-09-12T19:11:17.131Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=73",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00131",
+    "timestamp": "2026-09-12T19:11:17.131Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00132",
+    "timestamp": "2026-09-13T20:12:24.132Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=50",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00132",
+    "timestamp": "2026-09-13T20:12:24.132Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00133",
+    "timestamp": "2026-09-14T21:13:31.133Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=211",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00133",
+    "timestamp": "2026-09-14T21:13:31.133Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00134",
+    "timestamp": "2026-09-15T22:14:38.134Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00134",
+    "timestamp": "2026-09-15T22:14:38.134Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00135",
+    "timestamp": "2026-09-16T18:15:45.135Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=257",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00135",
+    "timestamp": "2026-09-16T18:15:45.135Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00136",
+    "timestamp": "2026-09-17T19:16:52.136Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=48",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00136",
+    "timestamp": "2026-09-17T19:16:52.136Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00137",
+    "timestamp": "2026-09-18T20:17:59.137Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=101",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00137",
+    "timestamp": "2026-09-18T20:17:59.137Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00138",
+    "timestamp": "2026-09-19T21:18:06.138Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=29",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00138",
+    "timestamp": "2026-09-19T21:18:06.138Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00139",
+    "timestamp": "2026-09-20T22:19:13.139Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=101",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00139",
+    "timestamp": "2026-09-20T22:19:13.139Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00140",
+    "timestamp": "2026-09-21T18:20:20.140Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=146",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00140",
+    "timestamp": "2026-09-21T18:20:20.140Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00141",
+    "timestamp": "2026-09-22T19:21:27.141Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=161",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00141",
+    "timestamp": "2026-09-22T19:21:27.141Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00142",
+    "timestamp": "2026-09-23T20:22:34.142Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=68",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00142",
+    "timestamp": "2026-09-23T20:22:34.142Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00143",
+    "timestamp": "2026-09-24T21:23:41.143Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=234",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00143",
+    "timestamp": "2026-09-24T21:23:41.143Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00144",
+    "timestamp": "2026-09-25T22:24:48.144Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=371",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00144",
+    "timestamp": "2026-09-25T22:24:48.144Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00145",
+    "timestamp": "2026-09-26T18:25:55.145Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=False elapsed_ms=116",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00145",
+    "timestamp": "2026-09-26T18:25:55.145Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00146",
+    "timestamp": "2026-09-27T19:26:02.146Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=79",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00146",
+    "timestamp": "2026-09-27T19:26:02.146Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00147",
+    "timestamp": "2026-09-28T20:27:09.147Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=48",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00147",
+    "timestamp": "2026-09-28T20:27:09.147Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00148",
+    "timestamp": "2026-09-29T21:28:16.148Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=570",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00148",
+    "timestamp": "2026-09-29T21:28:16.148Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00149",
+    "timestamp": "2026-09-30T22:29:23.149Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=25",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00149",
+    "timestamp": "2026-09-30T22:29:23.149Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00150",
+    "timestamp": "2026-09-01T18:30:30.150Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=87",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00150",
+    "timestamp": "2026-09-01T18:30:30.150Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00151",
+    "timestamp": "2026-09-02T19:31:37.151Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=537",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00151",
+    "timestamp": "2026-09-02T19:31:37.151Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00152",
+    "timestamp": "2026-09-03T20:32:44.152Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=248",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00152",
+    "timestamp": "2026-09-03T20:32:44.152Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00153",
+    "timestamp": "2026-09-04T21:33:51.153Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=50",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00153",
+    "timestamp": "2026-09-04T21:33:51.153Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00154",
+    "timestamp": "2026-09-05T22:34:58.154Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=162",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00154",
+    "timestamp": "2026-09-05T22:34:58.154Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00155",
+    "timestamp": "2026-09-06T18:35:05.155Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=45",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00155",
+    "timestamp": "2026-09-06T18:35:05.155Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00156",
+    "timestamp": "2026-09-07T19:36:12.156Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=187",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00156",
+    "timestamp": "2026-09-07T19:36:12.156Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00157",
+    "timestamp": "2026-09-08T20:37:19.157Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=69",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00157",
+    "timestamp": "2026-09-08T20:37:19.157Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00158",
+    "timestamp": "2026-09-09T21:38:26.158Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=151",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00158",
+    "timestamp": "2026-09-09T21:38:26.158Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00159",
+    "timestamp": "2026-09-10T22:39:33.159Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=126",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00159",
+    "timestamp": "2026-09-10T22:39:33.159Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00160",
+    "timestamp": "2026-09-11T18:40:40.160Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=214",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00160",
+    "timestamp": "2026-09-11T18:40:40.160Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00161",
+    "timestamp": "2026-09-12T19:41:47.161Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=51",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00161",
+    "timestamp": "2026-09-12T19:41:47.161Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00162",
+    "timestamp": "2026-09-13T20:42:54.162Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=297",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00162",
+    "timestamp": "2026-09-13T20:42:54.162Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00163",
+    "timestamp": "2026-09-14T21:43:01.163Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=185",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00163",
+    "timestamp": "2026-09-14T21:43:01.163Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00164",
+    "timestamp": "2026-09-15T22:44:08.164Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=181",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00164",
+    "timestamp": "2026-09-15T22:44:08.164Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00165",
+    "timestamp": "2026-09-16T18:45:15.165Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=223",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00165",
+    "timestamp": "2026-09-16T18:45:15.165Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00166",
+    "timestamp": "2026-09-17T19:46:22.166Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=363",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00166",
+    "timestamp": "2026-09-17T19:46:22.166Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00167",
+    "timestamp": "2026-09-18T20:47:29.167Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=52",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00167",
+    "timestamp": "2026-09-18T20:47:29.167Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00168",
+    "timestamp": "2026-09-19T21:48:36.168Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=72",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00168",
+    "timestamp": "2026-09-19T21:48:36.168Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00169",
+    "timestamp": "2026-09-20T22:49:43.169Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=169",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00169",
+    "timestamp": "2026-09-20T22:49:43.169Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00170",
+    "timestamp": "2026-09-21T18:50:50.170Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=159",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00170",
+    "timestamp": "2026-09-21T18:50:50.170Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00171",
+    "timestamp": "2026-09-22T19:51:57.171Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=537",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00171",
+    "timestamp": "2026-09-22T19:51:57.171Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00172",
+    "timestamp": "2026-09-23T20:52:04.172Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=196",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00172",
+    "timestamp": "2026-09-23T20:52:04.172Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00173",
+    "timestamp": "2026-09-24T21:53:11.173Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=False elapsed_ms=286",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00173",
+    "timestamp": "2026-09-24T21:53:11.173Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00174",
+    "timestamp": "2026-09-25T22:54:18.174Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=178",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00174",
+    "timestamp": "2026-09-25T22:54:18.174Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00175",
+    "timestamp": "2026-09-26T18:55:25.175Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=129",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00175",
+    "timestamp": "2026-09-26T18:55:25.175Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00176",
+    "timestamp": "2026-09-27T19:56:32.176Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=330",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00176",
+    "timestamp": "2026-09-27T19:56:32.176Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00177",
+    "timestamp": "2026-09-28T20:57:39.177Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=649",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00177",
+    "timestamp": "2026-09-28T20:57:39.177Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00178",
+    "timestamp": "2026-09-29T21:58:46.178Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=199",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00178",
+    "timestamp": "2026-09-29T21:58:46.178Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00179",
+    "timestamp": "2026-09-30T22:59:53.179Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=295",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00179",
+    "timestamp": "2026-09-30T22:59:53.179Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00180",
+    "timestamp": "2026-09-01T18:00:00.180Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=172",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00180",
+    "timestamp": "2026-09-01T18:00:00.180Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00181",
+    "timestamp": "2026-09-02T19:01:07.181Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=66",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00181",
+    "timestamp": "2026-09-02T19:01:07.181Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00182",
+    "timestamp": "2026-09-03T20:02:14.182Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=204",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00182",
+    "timestamp": "2026-09-03T20:02:14.182Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00183",
+    "timestamp": "2026-09-04T21:03:21.183Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=195",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00183",
+    "timestamp": "2026-09-04T21:03:21.183Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00184",
+    "timestamp": "2026-09-05T22:04:28.184Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=39",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00184",
+    "timestamp": "2026-09-05T22:04:28.184Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00185",
+    "timestamp": "2026-09-06T18:05:35.185Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=296",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00185",
+    "timestamp": "2026-09-06T18:05:35.185Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00186",
+    "timestamp": "2026-09-07T19:06:42.186Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=56",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00186",
+    "timestamp": "2026-09-07T19:06:42.186Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00187",
+    "timestamp": "2026-09-08T20:07:49.187Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=170",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00187",
+    "timestamp": "2026-09-08T20:07:49.187Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00188",
+    "timestamp": "2026-09-09T21:08:56.188Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=37",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00188",
+    "timestamp": "2026-09-09T21:08:56.188Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00189",
+    "timestamp": "2026-09-10T22:09:03.189Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=100",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00189",
+    "timestamp": "2026-09-10T22:09:03.189Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00190",
+    "timestamp": "2026-09-11T18:10:10.190Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=48",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00190",
+    "timestamp": "2026-09-11T18:10:10.190Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00191",
+    "timestamp": "2026-09-12T19:11:17.191Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=82",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00191",
+    "timestamp": "2026-09-12T19:11:17.191Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00192",
+    "timestamp": "2026-09-13T20:12:24.192Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=False elapsed_ms=392",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00192",
+    "timestamp": "2026-09-13T20:12:24.192Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00193",
+    "timestamp": "2026-09-14T21:13:31.193Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=140",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00193",
+    "timestamp": "2026-09-14T21:13:31.193Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00194",
+    "timestamp": "2026-09-15T22:14:38.194Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=383",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00194",
+    "timestamp": "2026-09-15T22:14:38.194Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00195",
+    "timestamp": "2026-09-16T18:15:45.195Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00195",
+    "timestamp": "2026-09-16T18:15:45.195Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00196",
+    "timestamp": "2026-09-17T19:16:52.196Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=423",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00196",
+    "timestamp": "2026-09-17T19:16:52.196Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00197",
+    "timestamp": "2026-09-18T20:17:59.197Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=64",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00197",
+    "timestamp": "2026-09-18T20:17:59.197Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00198",
+    "timestamp": "2026-09-19T21:18:06.198Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=34",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00198",
+    "timestamp": "2026-09-19T21:18:06.198Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00199",
+    "timestamp": "2026-09-20T22:19:13.199Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=119",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00199",
+    "timestamp": "2026-09-20T22:19:13.199Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00200",
+    "timestamp": "2026-09-21T18:20:20.200Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=16",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00200",
+    "timestamp": "2026-09-21T18:20:20.200Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00201",
+    "timestamp": "2026-09-22T19:21:27.201Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=20",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00201",
+    "timestamp": "2026-09-22T19:21:27.201Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00202",
+    "timestamp": "2026-09-23T20:22:34.202Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=28",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00202",
+    "timestamp": "2026-09-23T20:22:34.202Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00203",
+    "timestamp": "2026-09-24T21:23:41.203Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=212",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00203",
+    "timestamp": "2026-09-24T21:23:41.203Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00204",
+    "timestamp": "2026-09-25T22:24:48.204Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=494",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00204",
+    "timestamp": "2026-09-25T22:24:48.204Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00205",
+    "timestamp": "2026-09-26T18:25:55.205Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=29",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00205",
+    "timestamp": "2026-09-26T18:25:55.205Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00206",
+    "timestamp": "2026-09-27T19:26:02.206Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=290",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00206",
+    "timestamp": "2026-09-27T19:26:02.206Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00207",
+    "timestamp": "2026-09-28T20:27:09.207Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=159",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00207",
+    "timestamp": "2026-09-28T20:27:09.207Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00208",
+    "timestamp": "2026-09-29T21:28:16.208Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=52",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00208",
+    "timestamp": "2026-09-29T21:28:16.208Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00209",
+    "timestamp": "2026-09-30T22:29:23.209Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=56",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00209",
+    "timestamp": "2026-09-30T22:29:23.209Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00210",
+    "timestamp": "2026-09-01T18:30:30.210Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=97",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00210",
+    "timestamp": "2026-09-01T18:30:30.210Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00211",
+    "timestamp": "2026-09-02T19:31:37.211Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=73",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00211",
+    "timestamp": "2026-09-02T19:31:37.211Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00212",
+    "timestamp": "2026-09-03T20:32:44.212Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=128",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00212",
+    "timestamp": "2026-09-03T20:32:44.212Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00213",
+    "timestamp": "2026-09-04T21:33:51.213Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=155",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00213",
+    "timestamp": "2026-09-04T21:33:51.213Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00214",
+    "timestamp": "2026-09-05T22:34:58.214Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=464",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00214",
+    "timestamp": "2026-09-05T22:34:58.214Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00215",
+    "timestamp": "2026-09-06T18:35:05.215Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=False elapsed_ms=156",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00215",
+    "timestamp": "2026-09-06T18:35:05.215Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00216",
+    "timestamp": "2026-09-07T19:36:12.216Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=53",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00216",
+    "timestamp": "2026-09-07T19:36:12.216Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00217",
+    "timestamp": "2026-09-08T20:37:19.217Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=514",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00217",
+    "timestamp": "2026-09-08T20:37:19.217Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00218",
+    "timestamp": "2026-09-09T21:38:26.218Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=False elapsed_ms=1016",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00218",
+    "timestamp": "2026-09-09T21:38:26.218Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00219",
+    "timestamp": "2026-09-10T22:39:33.219Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=226",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00219",
+    "timestamp": "2026-09-10T22:39:33.219Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00220",
+    "timestamp": "2026-09-11T18:40:40.220Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=68",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00220",
+    "timestamp": "2026-09-11T18:40:40.220Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00221",
+    "timestamp": "2026-09-12T19:41:47.221Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=108",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00221",
+    "timestamp": "2026-09-12T19:41:47.221Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00222",
+    "timestamp": "2026-09-13T20:42:54.222Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=37",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00222",
+    "timestamp": "2026-09-13T20:42:54.222Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00223",
+    "timestamp": "2026-09-14T21:43:01.223Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=95",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00223",
+    "timestamp": "2026-09-14T21:43:01.223Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00224",
+    "timestamp": "2026-09-15T22:44:08.224Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=310",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00224",
+    "timestamp": "2026-09-15T22:44:08.224Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00225",
+    "timestamp": "2026-09-16T18:45:15.225Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=197",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00225",
+    "timestamp": "2026-09-16T18:45:15.225Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00226",
+    "timestamp": "2026-09-17T19:46:22.226Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=260",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00226",
+    "timestamp": "2026-09-17T19:46:22.226Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00227",
+    "timestamp": "2026-09-18T20:47:29.227Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=False elapsed_ms=797",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00227",
+    "timestamp": "2026-09-18T20:47:29.227Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00228",
+    "timestamp": "2026-09-19T21:48:36.228Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=105",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00228",
+    "timestamp": "2026-09-19T21:48:36.228Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00229",
+    "timestamp": "2026-09-20T22:49:43.229Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=207",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00229",
+    "timestamp": "2026-09-20T22:49:43.229Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00230",
+    "timestamp": "2026-09-21T18:50:50.230Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=234",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00230",
+    "timestamp": "2026-09-21T18:50:50.230Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00231",
+    "timestamp": "2026-09-22T19:51:57.231Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=195",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00231",
+    "timestamp": "2026-09-22T19:51:57.231Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00232",
+    "timestamp": "2026-09-23T20:52:04.232Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=53",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00232",
+    "timestamp": "2026-09-23T20:52:04.232Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00233",
+    "timestamp": "2026-09-24T21:53:11.233Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=423",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00233",
+    "timestamp": "2026-09-24T21:53:11.233Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00234",
+    "timestamp": "2026-09-25T22:54:18.234Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=310",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00234",
+    "timestamp": "2026-09-25T22:54:18.234Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00235",
+    "timestamp": "2026-09-26T18:55:25.235Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=47",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00235",
+    "timestamp": "2026-09-26T18:55:25.235Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00236",
+    "timestamp": "2026-09-27T19:56:32.236Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=129",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00236",
+    "timestamp": "2026-09-27T19:56:32.236Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00237",
+    "timestamp": "2026-09-28T20:57:39.237Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=148",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00237",
+    "timestamp": "2026-09-28T20:57:39.237Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00238",
+    "timestamp": "2026-09-29T21:58:46.238Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=431",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00238",
+    "timestamp": "2026-09-29T21:58:46.238Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00239",
+    "timestamp": "2026-09-30T22:59:53.239Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=111",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00239",
+    "timestamp": "2026-09-30T22:59:53.239Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00240",
+    "timestamp": "2026-09-01T18:00:00.240Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=214",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00240",
+    "timestamp": "2026-09-01T18:00:00.240Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00241",
+    "timestamp": "2026-09-02T19:01:07.241Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=75",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00241",
+    "timestamp": "2026-09-02T19:01:07.241Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00242",
+    "timestamp": "2026-09-03T20:02:14.242Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=223",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00242",
+    "timestamp": "2026-09-03T20:02:14.242Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00243",
+    "timestamp": "2026-09-04T21:03:21.243Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=272",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00243",
+    "timestamp": "2026-09-04T21:03:21.243Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00244",
+    "timestamp": "2026-09-05T22:04:28.244Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=40",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00244",
+    "timestamp": "2026-09-05T22:04:28.244Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00245",
+    "timestamp": "2026-09-06T18:05:35.245Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=810",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00245",
+    "timestamp": "2026-09-06T18:05:35.245Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00246",
+    "timestamp": "2026-09-07T19:06:42.246Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=136",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00246",
+    "timestamp": "2026-09-07T19:06:42.246Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00247",
+    "timestamp": "2026-09-08T20:07:49.247Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=20",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00247",
+    "timestamp": "2026-09-08T20:07:49.247Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00248",
+    "timestamp": "2026-09-09T21:08:56.248Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=106",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00248",
+    "timestamp": "2026-09-09T21:08:56.248Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00249",
+    "timestamp": "2026-09-10T22:09:03.249Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=30",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00249",
+    "timestamp": "2026-09-10T22:09:03.249Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00250",
+    "timestamp": "2026-09-11T18:10:10.250Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=47",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00250",
+    "timestamp": "2026-09-11T18:10:10.250Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00251",
+    "timestamp": "2026-09-12T19:11:17.251Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=61",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00251",
+    "timestamp": "2026-09-12T19:11:17.251Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00252",
+    "timestamp": "2026-09-13T20:12:24.252Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=False elapsed_ms=177",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00252",
+    "timestamp": "2026-09-13T20:12:24.252Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00253",
+    "timestamp": "2026-09-14T21:13:31.253Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=67",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00253",
+    "timestamp": "2026-09-14T21:13:31.253Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00254",
+    "timestamp": "2026-09-15T22:14:38.254Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=197",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00254",
+    "timestamp": "2026-09-15T22:14:38.254Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00255",
+    "timestamp": "2026-09-16T18:15:45.255Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=219",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00255",
+    "timestamp": "2026-09-16T18:15:45.255Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00256",
+    "timestamp": "2026-09-17T19:16:52.256Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=84",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00256",
+    "timestamp": "2026-09-17T19:16:52.256Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00257",
+    "timestamp": "2026-09-18T20:17:59.257Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=78",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00257",
+    "timestamp": "2026-09-18T20:17:59.257Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00258",
+    "timestamp": "2026-09-19T21:18:06.258Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=219",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00258",
+    "timestamp": "2026-09-19T21:18:06.258Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00259",
+    "timestamp": "2026-09-20T22:19:13.259Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=119",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00259",
+    "timestamp": "2026-09-20T22:19:13.259Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00260",
+    "timestamp": "2026-09-21T18:20:20.260Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=40",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00260",
+    "timestamp": "2026-09-21T18:20:20.260Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00261",
+    "timestamp": "2026-09-22T19:21:27.261Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=169",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00261",
+    "timestamp": "2026-09-22T19:21:27.261Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00262",
+    "timestamp": "2026-09-23T20:22:34.262Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=106",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00262",
+    "timestamp": "2026-09-23T20:22:34.262Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00263",
+    "timestamp": "2026-09-24T21:23:41.263Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=150",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00263",
+    "timestamp": "2026-09-24T21:23:41.263Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00264",
+    "timestamp": "2026-09-25T22:24:48.264Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=21",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00264",
+    "timestamp": "2026-09-25T22:24:48.264Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00265",
+    "timestamp": "2026-09-26T18:25:55.265Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=106",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00265",
+    "timestamp": "2026-09-26T18:25:55.265Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00266",
+    "timestamp": "2026-09-27T19:26:02.266Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=124",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00266",
+    "timestamp": "2026-09-27T19:26:02.266Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00267",
+    "timestamp": "2026-09-28T20:27:09.267Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=101",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00267",
+    "timestamp": "2026-09-28T20:27:09.267Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00268",
+    "timestamp": "2026-09-29T21:28:16.268Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=295",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00268",
+    "timestamp": "2026-09-29T21:28:16.268Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00269",
+    "timestamp": "2026-09-30T22:29:23.269Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=1084",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00269",
+    "timestamp": "2026-09-30T22:29:23.269Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00270",
+    "timestamp": "2026-09-01T18:30:30.270Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=87",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00270",
+    "timestamp": "2026-09-01T18:30:30.270Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00271",
+    "timestamp": "2026-09-02T19:31:37.271Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=41",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00271",
+    "timestamp": "2026-09-02T19:31:37.271Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00272",
+    "timestamp": "2026-09-03T20:32:44.272Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=212",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00272",
+    "timestamp": "2026-09-03T20:32:44.272Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00273",
+    "timestamp": "2026-09-04T21:33:51.273Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=60",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00273",
+    "timestamp": "2026-09-04T21:33:51.273Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00274",
+    "timestamp": "2026-09-05T22:34:58.274Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=32",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00274",
+    "timestamp": "2026-09-05T22:34:58.274Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00275",
+    "timestamp": "2026-09-06T18:35:05.275Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=396",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00275",
+    "timestamp": "2026-09-06T18:35:05.275Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00276",
+    "timestamp": "2026-09-07T19:36:12.276Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=218",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00276",
+    "timestamp": "2026-09-07T19:36:12.276Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00277",
+    "timestamp": "2026-09-08T20:37:19.277Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=104",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00277",
+    "timestamp": "2026-09-08T20:37:19.277Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00278",
+    "timestamp": "2026-09-09T21:38:26.278Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=94",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00278",
+    "timestamp": "2026-09-09T21:38:26.278Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00279",
+    "timestamp": "2026-09-10T22:39:33.279Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=54",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00279",
+    "timestamp": "2026-09-10T22:39:33.279Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00280",
+    "timestamp": "2026-09-11T18:40:40.280Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=68",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00280",
+    "timestamp": "2026-09-11T18:40:40.280Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00281",
+    "timestamp": "2026-09-12T19:41:47.281Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=307",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00281",
+    "timestamp": "2026-09-12T19:41:47.281Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00282",
+    "timestamp": "2026-09-13T20:42:54.282Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=171",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00282",
+    "timestamp": "2026-09-13T20:42:54.282Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00283",
+    "timestamp": "2026-09-14T21:43:01.283Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=180",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00283",
+    "timestamp": "2026-09-14T21:43:01.283Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/mission random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00284",
+    "timestamp": "2026-09-15T22:44:08.284Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=366",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00284",
+    "timestamp": "2026-09-15T22:44:08.284Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night report-game invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00285",
+    "timestamp": "2026-09-16T18:45:15.285Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=166",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00285",
+    "timestamp": "2026-09-16T18:45:15.285Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00286",
+    "timestamp": "2026-09-17T19:46:22.286Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=122",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00286",
+    "timestamp": "2026-09-17T19:46:22.286Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00287",
+    "timestamp": "2026-09-18T20:47:29.287Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=156",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00287",
+    "timestamp": "2026-09-18T20:47:29.287Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00288",
+    "timestamp": "2026-09-19T21:48:36.288Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=107",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00288",
+    "timestamp": "2026-09-19T21:48:36.288Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00289",
+    "timestamp": "2026-09-20T22:49:43.289Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=134",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00289",
+    "timestamp": "2026-09-20T22:49:43.289Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00290",
+    "timestamp": "2026-09-21T18:50:50.290Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=41",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00290",
+    "timestamp": "2026-09-21T18:50:50.290Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00291",
+    "timestamp": "2026-09-22T19:51:57.291Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query done guild=100000000000000001 channel=300000000000000001 user=90000000000000003 success=True elapsed_ms=98",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00291",
+    "timestamp": "2026-09-22T19:51:57.291Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/rules query invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000003",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00292",
+    "timestamp": "2026-09-23T20:52:04.292Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000004 success=True elapsed_ms=56",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00292",
+    "timestamp": "2026-09-23T20:52:04.292Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000004",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00293",
+    "timestamp": "2026-09-24T21:53:11.293Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000005 success=True elapsed_ms=13",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00293",
+    "timestamp": "2026-09-24T21:53:11.293Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000005",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00294",
+    "timestamp": "2026-09-25T22:54:18.294Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000006 success=True elapsed_ms=80",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00294",
+    "timestamp": "2026-09-25T22:54:18.294Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000006",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00295",
+    "timestamp": "2026-09-26T18:55:25.295Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000007 success=True elapsed_ms=23",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00295",
+    "timestamp": "2026-09-26T18:55:25.295Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000007",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00296",
+    "timestamp": "2026-09-27T19:56:32.296Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random done guild=100000000000000001 channel=300000000000000001 user=90000000000000008 success=True elapsed_ms=57",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00296",
+    "timestamp": "2026-09-27T19:56:32.296Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/lore random invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000008",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00297",
+    "timestamp": "2026-09-28T20:57:39.297Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup done guild=100000000000000001 channel=300000000000000001 user=90000000000000000 success=True elapsed_ms=238",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00297",
+    "timestamp": "2026-09-28T20:57:39.297Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night signup invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000000",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00298",
+    "timestamp": "2026-09-29T21:58:46.298Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping done guild=100000000000000001 channel=300000000000000001 user=90000000000000001 success=True elapsed_ms=36",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00298",
+    "timestamp": "2026-09-29T21:58:46.298Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/ping invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000001",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic00299",
+    "timestamp": "2026-09-30T22:59:53.299Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings done guild=100000000000000001 channel=300000000000000001 user=90000000000000002 success=True elapsed_ms=502",
+      "logger": "root"
+    }
+  },
+  {
+    "insertId": "synthetic-inv00299",
+    "timestamp": "2026-09-30T22:59:53.299Z",
+    "severity": "INFO",
+    "jsonPayload": {
+      "message": "/club-night pairings invoked guild=100000000000000001 channel=300000000000000001 user=90000000000000002",
+      "logger": "root"
+    }
+  }
+]

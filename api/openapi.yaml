@@ -1,0 +1,141 @@
+openapi: 3.0.3
+info:
+  title: BFWG Bot Metrics API
+  version: 0.1.0
+  description: |
+    Read-only, aggregate metrics for the Blind Faith Wargaming Discord bot.
+    No endpoint returns member identifiers, display names or free-text notes.
+servers:
+  - url: http://localhost:8080
+paths:
+  /api/v1/commands/usage:
+    get:
+      summary: Per-command volume, success rate and latency
+      operationId: getCommandUsage
+      parameters:
+        - name: days
+          in: query
+          description: Look-back window in days.
+          schema: { type: integer, minimum: 1, maximum: 365, default: 30 }
+      responses:
+        "200":
+          description: Usage per command, busiest first.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [days, commands]
+                properties:
+                  days: { type: integer }
+                  commands:
+                    type: array
+                    items: { $ref: "#/components/schemas/CommandUsage" }
+        "400": { $ref: "#/components/responses/BadRequest" }
+        "500": { $ref: "#/components/responses/InternalError" }
+  /api/v1/games/summary:
+    get:
+      summary: Reported game counts and faction records
+      description: Factions below the server's minimum game threshold are omitted.
+      operationId: getGamesSummary
+      responses:
+        "200":
+          description: Aggregated results.
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/GamesSummary" }
+        "500": { $ref: "#/components/responses/InternalError" }
+  /api/v1/etl/runs:
+    get:
+      summary: Most recent ETL run per source
+      operationId: getETLRuns
+      responses:
+        "200":
+          description: Audit trail of the latest load for each source.
+          content:
+            application/json:
+              schema:
+                type: object
+                required: [runs]
+                properties:
+                  runs:
+                    type: array
+                    items: { $ref: "#/components/schemas/ETLRun" }
+        "500": { $ref: "#/components/responses/InternalError" }
+  /healthz:
+    get:
+      summary: Liveness probe
+      operationId: getHealth
+      responses:
+        "200": { description: Process is running. }
+  /readyz:
+    get:
+      summary: Readiness probe
+      operationId: getReady
+      responses:
+        "200": { description: Database reachable. }
+        "503": { description: Database unavailable. }
+components:
+  responses:
+    BadRequest:
+      description: Invalid query parameter.
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/Error" }
+    InternalError:
+      description: Unexpected server error.
+      content:
+        application/json:
+          schema: { $ref: "#/components/schemas/Error" }
+  schemas:
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error: { type: string }
+    CommandUsage:
+      type: object
+      required: [command, invocations, failures, success_rate, avg_ms, p95_ms]
+      properties:
+        command: { type: string, example: "club-night signup" }
+        invocations: { type: integer }
+        failures: { type: integer }
+        success_rate: { type: number, format: double, minimum: 0, maximum: 1 }
+        avg_ms: { type: number, format: double }
+        p95_ms: { type: integer, description: Nearest-rank 95th percentile latency. }
+    GamesSummary:
+      type: object
+      required: [systems, factions]
+      properties:
+        systems:
+          type: array
+          items:
+            type: object
+            required: [game, games, draws]
+            properties:
+              game: { type: string, example: heresy }
+              games: { type: integer }
+              draws: { type: integer }
+        factions:
+          type: array
+          items:
+            type: object
+            required: [game, faction, played, wins, losses, draws, win_rate]
+            properties:
+              game: { type: string }
+              faction: { type: string }
+              played: { type: integer }
+              wins: { type: integer }
+              losses: { type: integer }
+              draws: { type: integer }
+              win_rate: { type: number, format: double }
+    ETLRun:
+      type: object
+      required: [source, started_at, finished_at, status, rows_read, rows_loaded]
+      properties:
+        source: { type: string, enum: [games, command_logs] }
+        started_at: { type: string, format: date-time }
+        finished_at: { type: string, format: date-time }
+        status: { type: string, enum: [ok, failed] }
+        rows_read: { type: integer }
+        rows_loaded: { type: integer }
+        error: { type: string }

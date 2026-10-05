@@ -1,0 +1,12 @@
+# ReadWriteOnce: the server and ETL pods must share a node. Fine for a
+# single-node kind cluster; see docs/adr/0001-sqlite-storage.md for the
+# move to Postgres that lifts this constraint.
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: bfwg-metrics-data
+spec:
+  accessModes: [ReadWriteOnce]
+  resources:
+    requests:
+      storage: 256Mi
