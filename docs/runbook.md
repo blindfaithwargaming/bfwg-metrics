@@ -48,3 +48,5 @@ More than 5% of requests returned 5xx for 10 minutes. Check readiness and logs f
 |---|---|---|
 | `command_logs` loads 0 rows but reads many | Export contains only `invoked` lines, or the bot's log format changed | Confirm the export filter includes `done`. If the format changed, update the regex in `internal/etl/commandlogs.go` and its tests. |
 | ETL pod stuck `Pending` on a multi-node cluster | RWO volume is attached to the server's node | Pin both workloads to one node, or move to Postgres (ADR 0001). |
+| Pod stuck in `CreateContainerConfigError`: "image has non-numeric user" | `runAsNonRoot` cannot verify a named `USER` | Keep the Dockerfile's `USER` numeric (`65532:65532`). |
+| `make kind-deploy` rebuilt the image but the pod still runs the old one | The `:dev` tag is reused, so the Deployment spec is unchanged and nothing rolls | The target runs `rollout restart`. If you apply by hand, do the same. |
