@@ -16,5 +16,6 @@ COPY --from=build --chown=65532:65532 /out/data /data
 COPY testdata /sample
 ENV BFWG_DB_PATH=/data/bfwg-metrics.db BFWG_ADDR=:8080
 EXPOSE 8080
-USER nonroot
+# Numeric so Kubernetes can enforce runAsNonRoot; a username cannot be verified.
+USER 65532:65532
 ENTRYPOINT ["/usr/local/bin/server"]

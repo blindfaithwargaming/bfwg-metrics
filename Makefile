@@ -33,7 +33,9 @@ kind-deploy: docker
 	kubectl apply -k deploy/k8s
 	kubectl -n bfwg-metrics delete job etl-initial --ignore-not-found
 	kubectl -n bfwg-metrics create job etl-initial --from=cronjob/bfwg-metrics-etl
-	kubectl -n bfwg-metrics rollout status deployment/bfwg-metrics
+	kubectl -n bfwg-metrics rollout restart deployment/bfwg-metrics
+	kubectl -n bfwg-metrics rollout status deployment/bfwg-metrics --timeout=120s
+	kubectl -n bfwg-metrics wait --for=condition=complete job/etl-initial --timeout=120s
 
 kind-down:
 	kind delete cluster --name $(KIND_CLUSTER)
