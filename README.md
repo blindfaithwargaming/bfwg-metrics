@@ -1,7 +1,7 @@
 # bfwg-metrics
 
 A Go service that publishes aggregate usage and results metrics for the
-[Blind Faith Wargaming](https://github.com/blindfaithwargaming) Discord bot, a
+[Blind Faith Wargaming Discord bot](https://github.com/blindfaithwargaming/bfwg-discord-bot), a
 community bot for a wargaming club in Cardiff.
 
 The project is an integration exercise. It extracts data from two systems the bot already writes to (a JSON state file and Cloud Logging), transforms and anonymises it, loads it into SQL, and exposes it through a documented REST API, an HTML dashboard and Prometheus metrics. It runs locally, in Docker Compose or on Kubernetes.

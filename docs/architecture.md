@@ -42,7 +42,7 @@ separate short-lived process with nothing to scrape.
 
 ## Relationship to the bot
 
-The bot (separate repository) is unaware of this service. Integration is
+The [bot](https://github.com/blindfaithwargaming/bfwg-discord-bot) is unaware of this service. Integration is
 one-way and read-only. This service consumes artefacts the bot already emits for
 other reasons: its private state mirror and its structured logs. Changing a bot log format
 would break the `command_logs` parser. The regex is covered by tests using the
